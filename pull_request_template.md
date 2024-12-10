@@ -1,4 +1,5 @@
-<!-- Please describe the feature, bug, or other change being implemented, as well as the JIRA ticket -->
+*Please describe the feature, bug, or other change being implemented, as well as the issue ticket.*
+
 Link to issue: 
 
 # Goal ⚽️:
